@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/menu_scene_translate" android:title="Translate"></item>
+    <item android:id="@+id/menu_scene_rotate" android:title="Rotate"></item>
+    <item android:id="@+id/menu_scene_scale" android:title="Scale"></item>
+    <item android:id="@+id/menu_scene_remove" android:title="Remove"></item>
+    
+
+</menu>
